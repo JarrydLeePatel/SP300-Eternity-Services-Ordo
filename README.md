@@ -1,4 +1,4 @@
-# SP300 Eternity Services Ordo
+# Architectural firm - Eternity Services
 
 ### Intro
 The user manual is designed to be used with the Ordo system, for the purpose of making the system 
