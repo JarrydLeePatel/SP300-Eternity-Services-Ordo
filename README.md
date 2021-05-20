@@ -1,14 +1,14 @@
 # Architectural firm - Eternity Services
 
 ##### Table of Contents  
-[How-to-Set-Up-the-Application](#headers)  
+[Setup](#headers)  
 [Emphasis](#emphasis)  
 [Headers](#headers)  
 [Headers](#headers)  
 [Headers](#headers)  
 
 ...snip...    
-<a name="headers"/>
+<a name="Setup"/>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mattis pellentesque id nibh tortor. Etiam sit amet nisl purus in mollis nunc. Mauris rhoncus aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Vitae elementum curabitur vitae nunc sed. Justo nec ultrices dui sapien eget. Sollicitudin tempor id eu nisl. Sed ullamcorper morbi tincidunt ornare massa eget egestas purus viverra. Vitae tempus quam pellentesque nec nam aliquam sem et. Libero justo laoreet sit amet cursus sit. Quis eleifend quam adipiscing vitae proin sagittis nisl. Pharetra diam sit amet nisl suscipit. Feugiat nisl pretium fusce id velit ut tortor pretium. Aliquam ultrices sagittis orci a scelerisque purus semper eget. Quisque sagittis purus sit amet volutpat consequat mauris nunc congue. Massa sapien faucibus et molestie ac. Tellus id interdum velit laoreet id donec ultrices. Sit amet aliquam id diam maecenas ultricies mi eget mauris.
 
@@ -214,4 +214,4 @@ Lorem ipsum dolor sit amet consectetur adipiscing. Amet porttitor eget dolor mor
 
 
 
-## How-to-Set-Up-the-Application
+## Setup
