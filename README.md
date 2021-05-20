@@ -1,7 +1,7 @@
 # Architectural firm - Eternity Services
 
 ## Table of Contents  
-+ [Setup](#Setup) 
+[Setup](#Setup) 
 <a name="Setup"/>
 [About](#About) 
 <a name="About"/>
