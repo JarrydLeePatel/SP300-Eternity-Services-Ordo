@@ -1,16 +1,16 @@
 # Architectural firm - Eternity Services
 
 ## Table of Contents  
-* [Setup](#Setup) 
+* [How to Setup the Project](#Setup) 
 <a name="Setup"/>
 
-* [About pROJECT](#About) 
+* [About The Project](#About) 
 <a name="About"/>
 
-* [UI](#UI) 
+* [View User Interfaces](#UI) 
 <a name="UI"/>
 
-* [DownloadUserManual](#DownloadUserManual) 
+* [Download User Manual](#DownloadUserManual) 
 <a name="DownloadUserManual"/>
 
 
