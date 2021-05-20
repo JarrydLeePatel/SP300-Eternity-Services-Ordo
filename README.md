@@ -28,4 +28,5 @@
 ---
 
 ### DownloadUserManual
+[File Name](https://github.com/JarrydLeePatel/SP300-Eternity-Services-Ordo/blob/master/User%20Manual%20Group%20Pomegranate.pdf)
 ---
