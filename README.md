@@ -1,7 +1,7 @@
 # Architectural firm - Eternity Services
 
 ##### Table of Contents  
-[How-to-Set-Up-the-Application](##How-to-Set-Up-the-Application)  
+[How-to-Set-Up-the-Application](#headers)  
 [Emphasis](#emphasis)  
 [Headers](#headers)  
 [Headers](#headers)  
