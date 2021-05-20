@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/JarrydLeePatel/SP300-Eternity-Services-Ordo/blob/master/ordo/SP300/Images/logo%20ES.png)
 
-## Table of Contents  
+## Table of Contents:
 
 * [About The Project](#About) 
 <a name="About"/>
