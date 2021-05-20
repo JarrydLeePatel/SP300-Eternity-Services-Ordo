@@ -13,8 +13,8 @@
 * [View User Interfaces](#UI) 
 <a name="UI"/>
 
-* [Download User Manual](#DownloadUserManual) 
-<a name="DownloadUserManual"/>
+* [View User Manual](#UserManual) 
+<a name="UserManual"/>
 
 ---
 
@@ -27,8 +27,8 @@
 ### UI
 ---
 
-### DownloadUserManual
+### UserManual
 
-[Click to download User Manual](https://github.com/JarrydLeePatel/SP300-Eternity-Services-Ordo/blob/master/User%20Manual%20Group%20Pomegranate.pdf/)
+[Click to View User Manual](https://github.com/JarrydLeePatel/SP300-Eternity-Services-Ordo/blob/master/User%20Manual%20Group%20Pomegranate.pdf/)
 
 ---
