@@ -29,6 +29,6 @@
 
 ### DownloadUserManual
 
-[embed]https://github.com/JarrydLeePatel/SP300-Eternity-Services-Ordo/blob/master/User%20Manual%20Group%20Pomegranate.pdf[/embed]
+https://docs.google.com/viewer?url=https://github.com/JarrydLeePatel/SP300-Eternity-Services-Ordo/blob/master/User%20Manual%20Group%20Pomegranate.pdf
 
 ---
