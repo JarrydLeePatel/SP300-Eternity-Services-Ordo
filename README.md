@@ -1,6 +1,6 @@
 SP300 Eternity Services Ordo
 
-##Intro
+## Intro
 The user manual is designed to be used with the Ordo system, for the purpose of making the system 
 easier to use. The Ordo system user manual provides an overview of all the functions and features that a 
 user will need to know in order to use the system efficiently. The user manual will go through a step by 
