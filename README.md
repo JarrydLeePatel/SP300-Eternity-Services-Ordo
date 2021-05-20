@@ -3,11 +3,11 @@
 ## Table of Contents  
 + [Setup](#Setup) 
 <a name="Setup"/>
-+ [About](#About) 
+[About](#About) 
 <a name="About"/>
-+ [UI](#UI) 
+[UI](#UI) 
 <a name="UI"/>
-+ [DownloadUserManual](#DownloadUserManual) 
+[DownloadUserManual](#DownloadUserManual) 
 <a name="DownloadUserManual"/>
 
 
