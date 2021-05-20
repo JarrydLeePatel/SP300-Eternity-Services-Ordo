@@ -1,9 +1,9 @@
 # Architectural firm - Eternity Services
 
-##### Table of Contents  
+## Table of Contents  
 [Setup](#Setup) 
 <a name="Setup"/>
-[Emphasis](#emphasis)  
+
 
 [About](#About) 
 <a name="About"/>
@@ -13,7 +13,7 @@
 <a name="UI"/>
 
 
-[DownloadUserManual](#Download User Manual) 
+[DownloadUserManual](#DownloadUserManual) 
 <a name="DownloadUserManual"/>
 
 
