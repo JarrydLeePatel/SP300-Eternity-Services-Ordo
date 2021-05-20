@@ -4,7 +4,7 @@
 * [Setup](#Setup) 
 <a name="Setup"/>
 
-* [About](#About) 
+* [About pROJECT](#About) 
 <a name="About"/>
 
 * [UI](#UI) 
