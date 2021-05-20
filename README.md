@@ -7,10 +7,8 @@
 * [About The Project](#About) 
 <a name="About"/>
 
-* [How to Setup the Project](#Setup) 
-<a name="Setup"/>
 
-* [View User Interfaces](#UI) 
+* [View User Interface](#UI) 
 <a name="UI"/>
 
 * [View User Manual](#UserManual) 
@@ -21,8 +19,6 @@
 ### About
 ---
 
-### Setup
----
 
 ### UI
 ---
