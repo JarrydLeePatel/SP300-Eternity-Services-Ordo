@@ -1,8 +1,6 @@
-
+# Architectural firm - Eternity Services
 
 ![alt text](https://github.com/JarrydLeePatel/SP300-Eternity-Services-Ordo/blob/master/ordo/SP300/Images/logo%20ES.png)
-
-# Architectural firm - Eternity Services
 
 ## Table of Contents  
 * [How to Setup the Project](#Setup) 
